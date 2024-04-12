@@ -21,6 +21,6 @@ public interface SpaceShip {
   * @return whether the fire command was successful
   */
   public boolean fireTorpedo(FiringMode firingMode);
-
-  /*hi */
+  
+  /*Hello */
 }
